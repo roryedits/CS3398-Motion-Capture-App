@@ -1,0 +1,4 @@
+$cenario6
+$cenario2
+$cenario5
+$cenario7
